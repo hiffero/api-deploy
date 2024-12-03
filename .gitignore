@@ -1,0 +1,7 @@
+.env
+src/config/GoogleService-Account.json
+node_modules/
+Dockerfile
+package-lock.json
+package.json
+README.md
